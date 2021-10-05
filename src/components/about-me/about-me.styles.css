@@ -1,0 +1,26 @@
+ h1{
+    font-family: 'Bebas Neue', cursive;
+
+    font-weight:10em;
+    word-spacing: normal;
+    color:rgb(21, 9, 184);
+}
+.about{
+    font-family: 'Bebas Neue', cursive;
+    font-weight:7em;
+    float: left;
+}
+.Row{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 3em;
+    color: black;
+}
+.about-heading{
+
+   font-family: 'Bebas Neue', cursive;
+    font-size: 7em;
+}
+
+.text-info{
+    color: black;
+}

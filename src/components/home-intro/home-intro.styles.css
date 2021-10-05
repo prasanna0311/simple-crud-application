@@ -1,0 +1,64 @@
+.intro-heading{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 7em;
+    color: purple;
+}
+.crud{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 3em;
+    /* float: left; */
+    color: rgb(0, 0, 0);
+}
+
+.tech-logo{
+    text-align: left;
+    float: left;
+    margin: 10px 5px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+   
+}
+
+.tech-info{
+    margin: 3px 0px;
+    padding: 10px 0px;
+    /* display: flex; */
+    vertical-align: middle;
+    font-size: 25px;
+  
+}
+
+.card:hover{
+  box-shadow: 0 1rem 3rem rgb(0, 0, 0);
+    color: white;
+}
+
+.bootstrap-card:hover{
+    /* transform: translateY(10px); */
+ 
+   background-color: purple;
+ 
+
+}
+
+.react-card:hover{
+    background-color:  purple;
+    font-weight:bolder ;
+    /* color: white; */
+}
+
+
+.react-icons-logo{
+ animation: App-logo-spin infinite 10s linear;
+}
+
+@media (max-width:768px) {
+    .imgDiv{
+        display: none;
+    }
+
+    .nonImgDiv{
+        width: 100% !important;
+    }
+}
